@@ -1,0 +1,33 @@
+{
+  "lang": "es-CO",
+  "dir": "ltr",
+  "short_name": "apr1991lino.",
+  "name": "DISEÑO TU PÁGINA WEB ULTIMA Tecnologías Web FRONT-END DEVELOPER&reg;. &#124; Colombia.",
+  "author": "Adrian Paez",
+  "default_title": "DISEÑO TU PÁGINA WEB ULTIMA Tecnologías Web FRONT-END DEVELOPER&reg;. &#124; Colombia.",
+  "default_locale": "es-CO",
+  "icons": [
+    {
+      "src": "./ico/logo.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "./ico/logo.ico",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./ico/logo.ico",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "scope": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "orientation": "any",
+  "description": "DISEÑO TU PÁGINA WEB ULTIMA Tecnologías Web FRONT-END DEVELOPER&reg;. &#124; Colombia."
+}
