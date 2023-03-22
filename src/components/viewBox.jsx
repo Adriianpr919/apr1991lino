@@ -1,10 +1,11 @@
 import React from 'react';
 
-const Body = () => {
+const viewBox = () => {
   return (
     <>
+
     </>
   );
-};
+}
 
-export default Body;
+export default viewBox;
